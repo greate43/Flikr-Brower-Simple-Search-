@@ -1,0 +1,1 @@
+This a simple example project in which you can serach photos from Flikr .  
